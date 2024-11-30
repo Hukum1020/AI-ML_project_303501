@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- Nikita Fyodorov 307141 1 (“captain”)
-- Daniyar Dyussembayev 303501 2
+- Daniyar Dyussembayev 303501 1 (“captain”)
+- Nikita Fyodorov 307141 2
 - Eldar Kurbanov 306021 3 
 ---
 
