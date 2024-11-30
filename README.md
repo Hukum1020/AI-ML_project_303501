@@ -83,7 +83,7 @@ The main goal is to identify distinct clusters among alien-colonized planets to 
 
 ### Visualization
 
-![Cluster Visualization](ai final project/images/cluster_visualization.png)
+![Cluster Visualization](ai_final_project/images/cluster_visualization.png)
 
 *Figure 1: PCA plot displaying the clustering of alien-colonized planets.*
 
